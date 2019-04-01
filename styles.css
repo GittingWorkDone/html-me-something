@@ -84,7 +84,7 @@ img {
 	max-width: 100%;
 }
 
-html {
+.html {
 	font-family: sans-serif; /* 1 */
   }
 @media screen and (max-width: 680px) {
