@@ -84,6 +84,9 @@ img {
 	max-width: 100%;
 }
 
+html {
+	font-family: sans-serif; /* 1 */
+  }
 @media screen and (max-width: 680px) {
 	nav ul li {
 		margin: 1em 0;
