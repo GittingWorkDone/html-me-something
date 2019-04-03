@@ -93,6 +93,11 @@ img {
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 	background-color: darkmagenta
 }
+
+p.stats {
+
+	background-color: cyan;
+}
 @media screen and (max-width: 680px) {
 	nav ul li {
 		margin: 1em 0;
